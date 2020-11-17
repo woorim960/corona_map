@@ -1,0 +1,7 @@
+/* client/public/css/home.css */
+@import "reset.css";
+
+#map {
+  width: 100%;
+  height: 100vh;
+}
